@@ -4,25 +4,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sobre nós</title>
+    <title>Juche</title>
     <link rel="stylesheet" href="styles.css">
     <script src="https://kit.fontawesome.com/b397ee59be.js" crossorigin="anonymous"></script>
-    <script src="conflicts/scripts.js"></script>
-    <style>
-      html,body{
-        background-color: #7aafff;
-      }
-    </style>
+    <script src="scripts.js"></script>
 </head>
   <body>
-    <?php 
-    $x = 1;
-
-    require_once('include/default.require.php');
-    ?>
+    <?php require_once('../include/default.require.php');?>
     <main id="main">
-        <h1>Sobre nós</h1>
-        <p>Foto aqui</p>
+        <h1>Juche</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure ipsa fugiat culpa adipisci doloribus vitae provident recusandae consequatur voluptatem magnam fugit, soluta in neque eos, sint deserunt amet iste quaerat!</p>
     </main>
 </body>
 </html>

@@ -57,9 +57,11 @@ echo "<body>
                           onclick=\"abrirNav2(this);\"
                           continente=\"Europa\"
                           data-lists-names=\"
-                            ETA\"
+                            ETA,
+                            Refugiados\"
                           data-lists-links=\"
-                            {$backdir}conflicts/eta.php\"
+                            {$backdir}conflicts/eta.php,
+                            {$backdir}conflicts/refugiados.php\"
                           onmouseover=\"destacarArea('imgs/mapamundiEU.png');\">Europa</a>
                     </li>
                     <li>

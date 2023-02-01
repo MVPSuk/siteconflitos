@@ -34,10 +34,14 @@ nav{
 
 main{
     height: 100%;
-    padding: 50px 450px 0px 450px;
-    
+    margin: 50px 30vw 0px 30vw;
 }
-p,table, ul {
+
+ul{
+   color: #474747
+}
+
+main p{
   line-height: 25px;
   color: #474747
 }
@@ -88,10 +92,10 @@ a{
 }
 
 h1{
-    margin: 1em 0;
-   text-align: center;
-   color: #4a4a4a;
-  font-size:40px;
+    margin: 2em 0 1em;
+    text-align: center;
+    color: #4a4a4a;
+    font-size:40px;
 }
 
 nav a{
@@ -185,9 +189,16 @@ main p{
     position: absolute;
 }
 
+img{
+    width: 525px;
+    display: block;
+    margin: 30px auto;
+}
+
+img:nth-child(1){
+    width:100%;
+}
+
 @media screen and (min-width:481px) {
     
 }
- img{
-   width:400px;
- }
