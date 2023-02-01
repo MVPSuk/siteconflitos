@@ -22,7 +22,7 @@
        <img src="../imgs/foto1israelxpalestina.png" alt="Foto1IsraelxPalestina">
 <!--  Fonte não apresentada-->
 <!-- <p>Fonte:<a href="">/</a> </p> -->
-        <br><h2>Origem do Conflito entre Israel e Palestina</h2><br>
+        <h2>Origem do Conflito entre Israel e Palestina</h2>
         
       <p>A Palestina está localizada entre o Rio Jordão e o Mar Mediterrâneo, no Oriente Médio e até o início da Primeira Guerra Mundial, em 1914, estava sob o domínio do Império Otomano.
         </p>
@@ -33,10 +33,10 @@
         <p>Para esse povo, a região é denominada "Terra Santa" e "Terra Prometida", mas o conceito de lugar sagrado é partilhado também pelos muçulmanos e cristãos.
         </p>
       
-      <br>
+      
         <h2>O que diz a Bíblia?
         </h2>
-      <br>
+      
         <p>As razões para estabelecer o estado judeu na região eram baseados em fontes bíblicas.
         </p>
         <p>Os judeus consideram a área entre a África e o Oriente Médio, onde está a Palestina, a terra prometida por Deus ao profeta Abraão.
@@ -47,8 +47,8 @@
 </p>
         <p><strong>O DIREITO A PARTIR DA PROMESSA BÍBLICA É REJEITADO PELOS ÁRABES</strong>strong> e dizem que o filho de Abraão, Ismael, é seu antepassado. Desta maneira, a promessa de Deus os incluiria também. Além disso, a reivindicação dos palestinos é baseada no direito à ocupação, ocorrida por 13 séculos.
 </p>
-<br><h2>A Ocupação da Palestina
-</h2><br>
+<h2>A Ocupação da Palestina
+</h2>
         <p>A região foi ocupada 2 mil anos a.C. por povos amoritas, cananeus e fenícios, sendo denominada como Terra de Canaã. A chegada de hebreus de origem semita ocorreu entre 1,8 mil a 1,5 mil a.C.
 </p>
 
@@ -62,8 +62,8 @@
 <p>Em 1917, a Palestina é submetida ao mandato britânico. O comando inglês dura até fevereiro de 1947, quando a Inglaterra renuncia ao mandato sobre a Palestina e entrega a maior parte do equipamento bélico aos grupos sionistas.
 </p>
 
-      <br><h2>Causas do Conflito entre Israel e Palestina
-</h2><br>
+      <h2>Causas do Conflito entre Israel e Palestina
+</h2>
       
 <p>As causas para o conflito são remotas e se tivermos que colocar uma data, certamente seria a expulsão dos judeus pelos romanos no ano 70 d.C., quando os judeus tiveram que se deslocar para o norte da África e a Europa, ato conhecido como Diáspora Judaica.
 </p>
@@ -78,7 +78,7 @@
 <p>As <strong>CIDADES DE BELÉM E JERUSALÉM </strong> seriam consideradas território internacional devido ao significado religioso para muçulmanos, judeus e cristãos. No entanto, os representantes árabes não aceitaram as determinações.
 </p>
 
-      <br><h2>Fundação do Estado de Israel</h2><br>
+      <h2>Fundação do Estado de Israel</h2>
       
 <p>Em 14 de maio de 1948, contudo, foi fundado Israel, após a retirada dos ingleses. No dia seguinte, <strong>EGITO, SÍRIA, JORD NIA E IRAQUE INVADEM ISRAEL</strong> e deflagram a Guerra da Independência, que foi chamada de Nakba ou "catástrofe" pelos árabes.
 </p>
@@ -95,8 +95,8 @@
 <p>Em 1959 é fundada a OLP (Organização para a Libertação da Palestina), que só foi reconhecida pela ONU em 1974.
 </p>
       
-<br><h2>Guerra dos Seis Dias (1967)
-</h2><br>
+<h2>Guerra dos Seis Dias (1967)
+</h2>
 <img src="../imgs/3israelepales.jpg" alt="3israelepales">
 <!--  Fonte não apresentada-->
 <!-- <p>Fonte:<a href="">/</a> </p> -->      
@@ -106,7 +106,7 @@
 </p>
 <p>Os árabes tentam reaver o território ocupado em 1973, na Guerra de Yom Kippur (dia sagrado judeu), que durou de 6 a 26 de outubro. Porém, somente em 1979, Israel devolve ao Egito a Península do Sinai após a assinatura de um acordo de paz.
 </p>
-<br><h2>Conflito entre Israel e Palestina no século XXI</h2><br>
+<h2>Conflito entre Israel e Palestina no século XXI</h2>
 <p>Longe do fim, o conflito ainda permanece e milhares de árabes ainda estão em campos de refugiados. A Autoridade Nacional Palestina reivindica a aprovação na ONU da autonomia do Estado Palestino.
 </p>
 <p>Também exige a retirada dos assentamentos israelenses da Cisjordânia, situação que foi condenada pelo Tribunal Internacional de Haia, mas perdura.
@@ -115,7 +115,7 @@
 </p>
 <p>Já o Estado de Israel pleiteia a totalidade de Jerusalém, reivindicação que não foi aceita pela Convenção de Haia.
 </p>
-<br><h2>Muro de Israel</h2><br>
+<h2>Muro de Israel</h2>
 <p>Em campo, a vantagem bélica e econômica é israelense. Em 2002, o governo de Israel, sob o comando de Ariel Sharon (1928-2014) iniciou a construção de um muro na Cisjordânia.
 </p>
 <img src="../imgs/4israelepales.jpg" alt="4israelepales">
@@ -127,8 +127,8 @@
 </p>
 <p>Em 53 dias de conflito, no verão de 2014, foram mortos 2,2 mil palestinos. Deles, 1,5 mil eram civis e 538, menores de idade, conforme dados da OCHA (Escritório das Nações Unidas para a Coordenação de Assuntos Humanitários nos Territórios Palestinos Ocupados). Do lado israelense, a contenda resultou em 71 mortes, seis delas de civis.
 </p>
-<br><br><h3>Referências
-</h3><br>
+<h3>Referências
+</h3>
 <p><a href="https://www.todamateria.com.br/conflito-israel-palestina/">https://www.todamateria.com.br/conflito-israel-palestina/</a></p>
 <p><a href="https://www.brasilparalelo.com.br/artigos/conflito-entre-israel-e-palestina">https://www.brasilparalelo.com.br/artigos/conflito-entre-israel-e-palestina</a></p>
 <p></p><a href="https://mundoeducacao.uol.com.br/geografia/o-conflito-entre-israel-palestina.htm

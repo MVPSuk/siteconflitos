@@ -23,7 +23,7 @@
       <p>Criado pela Lei nº 9.474/1997 com o objetivo de reconhecer e tomar decisões sobre a circunstância de refugiado no Brasil, além de promover a integração local, o Comitê Nacional para os Refugiados (CONARE) é um órgão multiministerial do qual participam o governo, a sociedade civil e a ONU, por meio do ACNUR. Segundo dados divulgados na 7ª edição do relatório “Refúgio em Números”, apenas em 2021, foram feitas 29.107 solicitações da condição de refugiado, sendo que o Conare reconheceu 3.086 pessoas de diversas nacionalidades como refugiadas.Tanto os homens (55,2%) como as mulheres (44,8%) reconhecidos como refugiados encontravam-se, predominantemente, na faixa de 5 a 14 anos de idade (50,4%).</p>
   <img src="../imgs/2refugiados.jpg" alt="2refugiados">
 <p>Fonte:<a href="https://images.app.goo.gl/AVxwTjd4KEqtJPt28">https://images.app.goo.gl/AVxwTjd4KEqtJPt28</a> </p> 
-  <br><h2>O que torna a Europa tão atrativa para os refugiados?</h2><br>
+  <h2>O que torna a Europa tão atrativa para os refugiados?</h2>
   <img src="../imgs/3refugiados.jpg" alt="3refugiados">
 <p>Fonte:<a href="https://images.app.goo.gl/GKrjtMz1unmc11nb6">https://images.app.goo.gl/GKrjtMz1unmc11nb6</a> </p> 
       <p>No contexto histórico, após a primeira Guerra Mundial a França e a Inglaterra dividiram o território do Oriente Médio entre elas. Dessa forma, a criação da maioria dos atuais Estados do Oriente Médio só ocorreu por meio da permissão da França e Inglaterra no decorrer do século XX como resultado do enfraquecimento dessas grandes potências e da pressão dos Estados Unidos, que já eram a maior potência mundial da época.</p>
@@ -33,7 +33,7 @@
       <p>A política de imigração a nível europeu lida com a imigração regular e a migração irregular. Relativamente à migração regular, a UE fixa as condições para as entradas legais e de residência. Os Estados-Membros mantêm o direito de determinar os volumes de admissão das pessoas oriundas de países terceiros em busca de emprego.</p>
       <p>A União Europeia também lida com a migração irregular, especialmente através de uma política de repatriamento que respeite os direitos fundamentais. No que diz respeito à integração, não existe harmonização das legislações nacionais. No entanto, a UE pode desempenhar um papel de apoio, especialmente a nível financeiro.</p>
 
-    <br><br><h3>Referências:</h3><br>  
+    <h3>Referências:</h3>  
 <p><a href="https://www.acnur.org"> https://www.acnur.org</a></p>
 <!-- <p><a href="https://www.acnur.org">https://www.acnur.org</a></p> colocou o mesmo link-->
 <p><a href="https://vocepergunta.com/library/artigo/read/696846-como-a-acnur-ajuda-os-refugiados">https://vocepergunta.com/library/artigo/read/696846-como-a-acnur-ajuda-os-refugiados</a></p>
@@ -43,7 +43,7 @@
       
 
   
-<br><br><br>
+
     </main>
 </body>
 </html>

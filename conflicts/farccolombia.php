@@ -36,7 +36,7 @@
       <p>No entanto, os ex-combatentes liberais instituíram as Forças Armadas da Colômbia (Farc) em 1964. Nos anos seguintes, foram fundadas outras organizações, como: Exército de Libertação Nacional (ELN) e o Movimento Revolucionário 19 de Abril (M-19), o que resultou na expansão da guerra civil. Na década de 1980, começou uma vasta produção de cocaína. A Colômbia atualmente é responsável por 79% da produção mundial de cocaína.
 </p>
      </p>
-      <br><br><h3>Referências:</h3><br>
+      <h3>Referências:</h3>
       
   <p> <a     
 href="https://brasilescola.uol.com.br/historia/farc.htm

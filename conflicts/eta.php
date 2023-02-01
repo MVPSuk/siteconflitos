@@ -13,26 +13,26 @@
     <?php require_once('../include/default.require.php');?>
     <main id="main">
         <h1>Eta e Catalunha</h1>
-<br><h2>Contexto</h2><br>
+<h2>Contexto</h2>
       <p>Antes de falar diretamente do caso da Catalunha, é necessário falar sobre a Espanha, país em que estão localizados esses eventos.</p>
       <p>A Espanha é um país europeu com grande influência por todo o mundo, principalmente no continente americano, além de que sua língua, o espanhol, é uma das mais praticadas e falas por todo o globo(são 21 países no planeta que falam espanhol como língua oficial). Porém, mesmo com todo esse status, algumas regiões não estão satisfeitas com o tratamento que estão recebendo da Espanha, os principais exemplos são o País Basco e a Catalunha.</p>
-<br><h2>O conflito da Catalunha e movimentos separatistas</h2><br>
+<h2>O conflito da Catalunha e movimentos separatistas</h2>
       <p>No caso da Catalunha, eles funcionam como um país dentro de outro país (no caso, dentro da Espanha), pois possuem um idioma próprio (o Catalão) e quatro províncias: Girona, Lérida, Tarragona e Barcelona, que também é a maior cidade e capital do país. Essa região se formou a mais de 1000 anos e desde que passou a fazer parte da Espanha, vem tentando conquistar sua independência.</p>
       <p>O desejo de se separar surgiu no século 19 e ganhou força na ditadura de Francisco Franco, entre 1939 e 1975, que impôs sanções aos povos, como a proibição de seu idioma.</p>
       <p>Após o fim da ditadura, houveram avanços na tentativa de se tornar um país independente. Em 2006 a Catalunha foi reconhecida como nação. Porém, a Espanha notou que existia um risco muito grande de perder a sua influência sobre uma de suas principais regiões, já que só a região da Catalunha era responsável por cerca de 16% do PIB de toda a Espanha, superando até mesmo Madrid. Com isso, em 2010 a até então nação, foi rebaixada novamente pois o Tribunal declarou que alguns dos artigos relacionados a sua independência não eram válidos. Isso gerou uma grande revolta.</p>
-<br><h2>País Basco e o grupo separatista: ETA</h2><br>
+<h2>País Basco e o grupo separatista: ETA</h2>
       <p>O País Basco é a região histórico cultural em que residem os bascos, está localizada no extremo norte da Espanha e no extremo sudoeste da França, cortada pela cadeia montanhosa dos Pirenéus e banhada pelo Golfo da Biscaia. Compreende as comunidades autônomas do País Basco e Navarra, na Espanha, e o Iparralde, na França.</p>
       <p>O termo Basco pode ser tanto uma identidade cultural, como uma referência geográfica na fronteira entre Espanha e França.</p>
       <p>O país sofre com a influência do grupo separatista: ETA (Euskadi Ta Askatasuna), rebeldes que foram formados com o objetivo de combater as medidas contra manifestações culturais no território impostas durante a ditadura na Espanha, após a Guerra Civil Espanhola.</p>
       <p>ETA: seu nome é uma abreviação em basco para “Pátria Basca e Liberdade”. Trata-se de um grupo terrorista separatista que visa à criação de um Estado com a independência do País Basco em relação à Espanha. Criado em 1959, o grupo organizou vários atentados ao longo de sua história, mas vem gradativamente reduzindo o seu arsenal militar, tendo um provável fim nos próximos anos em razão da sua não aprovação por parte da população basca, que deseja a independência local sem o uso de armas.</p>
 
-<br><h2>Fim do tratado de Cessar-Fogo</h2><br>
+<h2>Fim do tratado de Cessar-Fogo</h2>
       <p>Após catorze meses de trégua, o grupo ETA anuncia em novembro de 1999 a retomada da luta armada e em janeiro de 2000 mata um militar. A ação provocou protestos em todo o país, o que levou a uma manifestação de 1 milhão de pessoas em Madrid. Em setembro, já são treze o número de mortos nos atentados.</p>
       <p>A acirrada reprovação popular aos atentados leva o grupo ao maior isolamento de sua história, o que motiva a declaração da trégua, em setembro de 1998. Em 1999, no entanto, o ETA exigiu a transferência de seiscentos ativistas para presídios no País Basco e um referendo sobre a independência. O governo rejeita e o ETA põe fim ao cessar-fogo.</p>
       <p>Em junho de 2006 autoridades do ETA fazem uma declaração em vídeo e a enviam ao canal espanhol TVE onde é anunciada a renúncia ao movimento armado. O cessar-fogo permanente acontece na região desde que o governo espanhol concordasse com o início de discussões pacíficas sobre o aumento da autonomia e uma possível independência do País Basco, apesar do cessar-fogo as discussões ainda não foram iniciadas oficialmente.</p>
-<br><h2>Atentado em Madrid</h2><br>
+<h2>Atentado em Madrid</h2>
       <p>No dia 30 de dezembro de 2006 o ETA provocou a explosão de um carro-bomba, num piso de estacionamento do moderno Terminal 4, do aeroporto de Barajas, em Madrid. As autoridades espanholas receberam avisos da organização ETA com duas horas de antecedência (a bomba foi deflagrada às 9:01 h, no horário local). As autoridades conseguiram evacuar, a tempo, o local. Acredita-se que vinte mil pessoas ocupavam as instalações do terminal aéreo. O tráfego aéreo ficou suspenso durante um dos dias mais agitados do ano nos aeroportos da região. Dezenas de pessoas ficaram feridas e dois equatorianos faleceram. Este terminal viria a ser reinaugurado em Setembro de 2007.</p>
-<br><br><br>    
+    
     </main>
 </body>
 </html>
