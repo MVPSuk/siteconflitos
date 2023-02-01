@@ -78,13 +78,30 @@ Em 2003, o país saiu do TNP.  A partir disso, as organizações internacionais 
 <p>Com o governo Trump, as tensões entre os dois países aumentaram, já que a Coreia do Norte tem tido sucesso nos testes de mísseis balísticos de longo alcance e dos avanços na tecnologia de bombas de hidrogênio.
 </p>
       
-<h3></h3>
+<h3>Relações entre Coreia do Sul e Coreia do Norte
+</h3>
 
-<p>
+<p>A relação entre as Coreias não é muito consistente e amigável, apesar disso, os dois líderes dos países se encontraram em 2018, na zona desmilitarizada com a ajuda dos Estados Unidos. Durante a reunião, os dois líderes afirmam seu compromisso com “uma nova era de paz”.
+
 </p>
-<p></p>
-<p></p>
-<p></p>
+      <h3>Tensão entre Coreia do Norte e Japão
+
+</h3>
+<p>Na manhã do dia 3/11 de 2022 toda a população japonesa ficou em alerta, pois um míssil havia sido lançado pela Coreia do Norte na direção do Japão. O projétil acabou falhando e caindo no mar, sem atingir território japonês, mas tal ação do governo Norte Coreano causou repercussão por não ser um comportamento natural e ser altamente perigoso e provocativo.
+</p>
+<p>Essa atitude do presidente Norte Coreano, foi interpretada por muitos estudiosos como uma forma de aumentar as tensões entre os países vizinhos (e inimigos históricos) com objetivos armamentistas e políticos. Entretanto, essas ameaças também são direcionadas para os EUA, além da Coreia do Sul e Japão, pois trata-se de um míssil balístico intercontinental com capacidade nuclear, os chamados ICBM.
+</p>
+<p>Contudo, toda essa provocação ao Japão pode surtir um efeito oposto ao esperado, pois depois de muito tempo adotando medidas pacifistas, é provável que o governo Japonês aumente significativamente o orçamento direcionado a compra de armas de defesa, de ataque de longa distância e de armamento em geral.
+</p>
+<h3>Notícias 
+</h3>
+<p><b>Na Coreia do Norte, Kim Jong-un inicia 2018 com ameaças aos EUA
+</b>'Botão nuclear está na minha mesa', disse ele. Japoneses começam o ano indo a templos; em Hong Kong festa da virada foi grandiosa.<a href="https://g1.globo.com/jornal-nacional/noticia/2018/01/na-coreia-do-norte-kim-jong-un-inicia-2018-com-ameacas-aos-eua.html">(Jornal Nacional - 2018)</a> </p>
+<p><b>Coreia do Norte faz novo lançamento de míssil, diz Coreia do Sul</b>Japão afirma que ação é uma ameaça à comunidade internacional.
+ <a href="https://g1.globo.com/mundo/noticia/2019/11/28/coreia-do-norte-faz-novo-lancamento-de-missil.ghtml">(Mundo - 2019)
+</a> </p> 
+<p><b>Coreia do Norte lança mísseis balísticos</b>Exército sul-coreano condenou disparos como 'extremamente inapropriados, dada a situação difícil que o mundo está enfrentando devido à Covid-19' 
+ <a href="https://veja.abril.com.br/mundo/coreia-do-norte-lanca-misseis-balisticos/">(Veja - 2020) </a> </p>
 <p></p>
 <p></p>
 <p></p>

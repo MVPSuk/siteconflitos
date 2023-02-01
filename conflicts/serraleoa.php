@@ -12,7 +12,7 @@
   <body>
     <?php require_once('../include/default.require.php');?>
     <main id="main">
-        <h1>Conflito 1</h1>
+        <h1>Guerra Civil Serra Leoa</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure ipsa fugiat culpa adipisci doloribus vitae provident recusandae consequatur voluptatem magnam fugit, soluta in neque eos, sint deserunt amet iste quaerat!</p>
     </main>
 </body>

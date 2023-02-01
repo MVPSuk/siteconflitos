@@ -19,7 +19,7 @@
       
       <h2>Dados Gerais</h2>
       
-       <ul>
+       <ul class="rein">
           <li>Nome oficial: República do Chade</li>
           <li>Gentílico: chadiano
 </li>
@@ -145,7 +145,7 @@ União Africana (UA).
       <p>Com isso, temos agora uma situação inusitada: o Chade, que teve seu território dominado pela Líbia por oito anos, assinou um acordo que levou tropas do país invasor para os arredores de sua capital. 4.000 soldados líbios saíram de Maidugurui, na Nigéria, em direção ao Chade em dezembro de 1980. Em janeiro de 1981 um outro tratado bilateral surpreendente é assinado: a Líbia e o Chade formariam uma só República Islâmica.  Porém, por motivos não muito claros, o tratado em questão nunca foi posto em prática.</p>
       <p>A grande virada. Como mostrado acima, a cooperação entre Muammar Gaddafi e Gukuni era imensa, mas há uma reviravolta nesta parceria tão intensa. Dois comandantes militares chadianos foram enviados à Líbia e foram mortos por dissidentes. Era um recado claro: não abandone o acordo com a Líbia. Com uma insatisfação crescente com Gaddafi, o presidente Gukuni decide se virar contra os líbios. As forças da Líbia saem da capital N’djamena em novembro de 1981, substituídas pelas Forças Intra-Africanas da finada Organização da Unidade Africana (OUA)[2]. Agora avançamos para o ano de 1986. A Líbia ainda ocupa a Faixa de Aouzou, e faz uma investida cruzando a Red Line, delimitação terrestre feita pela França para conter o avanço tanto do Chade quanto da Líbia em território alheio. Porém, mesmo com uma superioridade militar, a Líbia perde o conflito.</p>
       <p>Como uma nação superior militarmente, com mais armamentos, pessoal e treinamento perde para uma nação mais fraca? Esta pergunta é feita por diversos acadêmicos, militares e civis em geral. Azevedo (1998) cita alguns dos principais motivos:</p>
-       <ul>
+       <ul class="rein">
      <li>A Líbia não conhecia o terreno;
 </li>
      <li>Baixa moral dos mercenários contratados pela Líbia – não havia um porquê de lutar; cenário oposto às tropas chadienses, que tinha moral alta e comandantes determinados;
