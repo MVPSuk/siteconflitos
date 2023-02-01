@@ -1,0 +1,193 @@
+:root{
+    --cor-1: rgb(24, 41, 114);
+    --cor-2: rgb(21, 37, 105);
+    --cor-3: rgb(19, 32, 92);
+    --cor-4: rgb(35, 53, 133);
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    background-color: white;
+    height: 100%;
+}
+
+header{
+    top: 0;
+}
+
+nav{
+    background: var(--cor-2);
+    left: 0;
+}
+
+#nav2{
+    background: var(--cor-4);
+    right: 0;
+    text-align: center;
+}
+
+main{
+    height: 100%;
+    padding: 50px 450px 0px 450px;
+    
+}
+p,table, ul {
+  line-height: 25px;
+  color: #474747
+}
+h2{
+  color:#595959
+}
+
+ul.rein{
+  list-style-type: square;
+  list-style-position: inside;
+  color: #474747
+}
+h3{
+  color:#595959
+}
+
+footer{
+    bottom: 0;
+}
+
+header,footer{
+    color: white;
+    background: var(--cor-1);
+    width: 100%;
+    padding: 11px 30px 11px 30px;
+    position: fixed;
+}
+
+nav,#nav2{
+    color: white;
+    height: 100%;
+    width: 0px;
+    position: fixed;
+    top: 0;
+    z-index: 3;
+    overflow: hidden;
+    white-space: nowrap;
+    transition: width 0.3s;
+}
+
+a{
+    text-decoration: none;
+}
+
+#btn-abrir{
+    color: white;
+    font-size: 24px;
+}
+
+h1{
+    margin: 1em 0;
+   text-align: center;
+   color: #4a4a4a;
+  font-size:40px;
+}
+
+nav a{
+    color: white;
+    font-size: 22px;
+    display: block;
+    padding: 12px 10px 12px 32px;
+}
+
+#redcircle{
+    width: 30px;
+    height: 30px; 
+    padding: 3px 0 0 8px;
+    border-radius: 50%;
+}
+
+#redcircle:hover{
+    background-color: rgb(255, 110, 130,0.6);
+    transition: 0.2s;
+}
+
+#btn-fechar{
+    display: inline-block;
+    margin: 12px 10px 12px 32px;
+    padding: 0 !important;
+}
+
+nav ul li a i{
+    transition: 0.1s;
+}
+
+nav ul li #conflictlist{
+    height: 0;
+    overflow: hidden;
+    transition: height 0.3s;
+}
+
+nav ul li ul li a{
+    background: var(--cor-3);
+    font-size: 16px;
+    padding: 8px 0;
+    text-align: center;
+}
+
+nav ul li a:hover{
+    background: rgb(34, 53, 136);
+    transition: 0.3s;
+}
+
+nav ul li ul li a:hover{
+    background: rgb(32, 48, 123);
+}
+
+nav p{
+    color: white;
+    margin: 0;
+    font-size: 12px;
+    position: absolute;
+    bottom: 16px;
+    right: 20px;
+}
+
+#title{
+    font-size: 22px;
+    margin-top: 54px;
+    padding: 12px 10px 12px 10px;
+}
+
+#nav2 a{
+    color: white;
+    background: var(--cor-2);
+    font-size: 16px;
+    display: block;
+    padding: 8px 0;
+    text-align: center;
+}
+
+#nav2 a:hover{
+    background: rgb(50, 71, 164);
+    transition: 0.3s;
+}
+
+main p{
+    text-align: justify;
+}
+
+#backscreen{
+    width: 0;
+    height: 100%;
+    z-index: 2;
+    position: absolute;
+}
+
+@media screen and (min-width:481px) {
+    
+}
+ img{
+   width:400px;
+ }
