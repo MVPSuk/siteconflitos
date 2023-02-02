@@ -18,7 +18,7 @@ echo "<body>
         <ul>
             <div id=\"red-circlePC\" onclick=\"fecharNav()\"><i id=\"btn-fechar\" class=\"fa-solid fa-xmark\"></i></div>
             <li>
-                <a href=\"../index.php\">Página Inicial</a>
+                <a href=\"{$backdir}index.php\">Página Inicial</a>
             </li>
             <li>
                 <a href=\"#\" onclick=\"abrirCList()\"><i id=\"pointconflictlist\" class=\"fa-solid fa-angle-right\"></i> Continentes</a>

@@ -10,7 +10,11 @@
     <script src="scripts.js"></script>
 </head>
   <body>
-    <?php require_once('../include/default.require.php');?>
+    <?php 
+    $x = 0;
+    
+    require_once('../include/default.require.php');
+    ?>
     <main id="main">
         <h1>Juche</h1>
       <p>Juche, conceito que teve origem em um discurso de Kim Il-sung em 28 de dezembro de 1955, é o sistema político em que se baseia a República Popular Democrática da Coreia. Também considerada uma ideologia, o Juche foi inspirado no socialismo, no marxismo-leninismo, no patriotismo e na ideia de independência.</p>

@@ -10,7 +10,11 @@
     <script src="scripts.js"></script>
 </head>
   <body>
-    <?php require_once('../include/default.require.php');?>
+    <?php 
+    $x = 0;
+    
+    require_once('../include/default.require.php');
+    ?>
     <main id="main">
         <h1>Fronteira EUA x México</h1>
        
