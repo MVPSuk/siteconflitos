@@ -44,7 +44,6 @@
         <p>Atualmente, o muro conta com mais de 1100 km de extensão, cobrindo cerca de um terço da fronteira entre os países. Estima-se que, até hoje, foram gastos mais de US$ 7 bilhões, e, para cobrir toda a fronteira, seria necessário cerca de 25 bilhões de dólares. Em alguns pontos, o muro é somente um agrupamento de simples paredes, com baixa elevação e pouca proteção. Assim, a fiscalização é pouco eficiente, quando existente, fazendo com que imigrantes pulem o muro para dentro dos EUA. Em outros locais, a barreira possui mais de dois muros de proteção, com alta tecnologia, torres de vigilância, câmeras, detectores de movimento, etc. O governo norte-americano investe bastante em unidades para vigilância e fiscalização do local, enviando muitos agentes para patrulhar alguns pontos da fronteira. Além disso, em alguns locais, o muro se estende até o mar, atingindo até 100 m de distância da costa, para evitar que imigrantes atravessem em períodos de maré baixa.
 </p>
        <img src="../imgs/img3fronteiramexeua.png" alt="img3fronteiramexeua">
-        
        
       <h2>Política Norte-americana</h2>
       
@@ -66,12 +65,12 @@
        
       <h2>Referências</h2>
       
-      <p><a href="https://pt.wikipedia.org/wiki/Fronteira_Estados_Unidos%E2%80%93M%C3%A9xico">Fronteira Estados Unidos-México</a></p>
-       <p><a href="https://brasilescola.uol.com.br/geografia/muro-mexico.htm">Muro do México
+      <p class ="ref"><a href="https://pt.wikipedia.org/wiki/Fronteira_Estados_Unidos%E2%80%93M%C3%A9xico">Fronteira Estados Unidos-México</a></p>
+       <p class ="ref"><a href="https://brasilescola.uol.com.br/geografia/muro-mexico.htm">Muro do México
 </a></p>
-       <p><a href="https://mundoeducacao.uol.com.br/geografia/muro-mexico.htm">Muro do México — Mundo Educação</a></p>
-       <p><a href="http://greenbond.com.br/tag/fronteira-mexico-eua/">Fronteira México/ EUA</a></p>
-       <p><a href="https://pt.wikipedia.org/wiki/Guerra_Mexicano-Americana">Guerra Mexicano-Americana</a></p>
+       <p class ="ref"><a href="https://mundoeducacao.uol.com.br/geografia/muro-mexico.htm">Muro do México — Mundo Educação</a></p>
+       <p class ="ref"><a href="http://greenbond.com.br/tag/fronteira-mexico-eua/">Fronteira México/ EUA</a></p>
+       <p class ="ref"><a href="https://pt.wikipedia.org/wiki/Guerra_Mexicano-Americana">Guerra Mexicano-Americana</a></p>
         
     </main>
 </body>

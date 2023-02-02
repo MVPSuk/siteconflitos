@@ -36,26 +36,26 @@
       <p>No entanto, os ex-combatentes liberais instituíram as Forças Armadas da Colômbia (Farc) em 1964. Nos anos seguintes, foram fundadas outras organizações, como: Exército de Libertação Nacional (ELN) e o Movimento Revolucionário 19 de Abril (M-19), o que resultou na expansão da guerra civil. Na década de 1980, começou uma vasta produção de cocaína. A Colômbia atualmente é responsável por 79% da produção mundial de cocaína.
 </p>
      </p>
-      <h3>Referências:</h3>
+      <h2>Referências:</h2>
       
-  <p> <a     
+  <p class ="ref"> <a     
 href="https://brasilescola.uol.com.br/historia/farc.htm
-"> https://brasilescola.uol.com.br/historia/farc.htm
+"> brasilescola.uol
 </a> </p>
-<p><a href="https://www.todamateria.com.br/farc/ 
-">https://www.todamateria.com.br/farc/
+<p class ="ref"><a href="https://www.todamateria.com.br/farc/ 
+">www.todamateria.com
 </a></p>
-<p><a href="https://youtu.be/jor5RnEymCs 
+<p class ="ref"><a href="https://youtu.be/jor5RnEymCs 
 ">https://youtu.be/jor5RnEymCs
 </a></p>
-      <p><a href="https://revistagalileu.globo.com/Sociedade/noticia/2019/07/colombia-cinco-fatos-para-conhecer-o-pais.html#:~:text=Por%20volta%20de%201808%2C%20movimentos,oficialmente%20a%20República%20da%20Colômbia
-">https://revistagalileu.globo.com/Sociedade/noticia/2019/07/colombia-cinco-fatos-para-conhecer-o-pais.html#:~:text=Por%20volta%20de%201808%2C%20movimentos,oficialmente%20a%20República%20da%20Colômbia
+      <p class ="ref"><a href="https://revistagalileu.globo.com/Sociedade/noticia/2019/07/colombia-cinco-fatos-para-conhecer-o-pais.html#:~:text=Por%20volta%20de%201808%2C%20movimentos,oficialmente%20a%20República%20da%20Colômbia
+">revistagalileu.globo.com/Sociedade
 </a></p>
-      <p><a href="https://brasilescola.uol.com.br/historia-da-america/historia-colombia.htm 
-">https://brasilescola.uol.com.br/historia-da-america/historia-colombia.htm
+      <p class ="ref"><a href="https://brasilescola.uol.com.br/historia-da-america/historia-colombia.htm 
+">brasilescola.uol.com
 </a></p>
-      <p><a href="https://g1.globo.com/mundo/noticia/2021/10/04/guerrilheiros-colombianos-atravessam-fronteira-por-garimpo-ilegal-na-amazonia.ghtml
-">https://g1.globo.com/mundo/noticia/2021/10/04/guerrilheiros-colombianos-atravessam-fronteira-por-garimpo-ilegal-na-amazonia.ghtml
+      <p class ="ref"><a href="https://g1.globo.com/mundo/noticia/2021/10/04/guerrilheiros-colombianos-atravessam-fronteira-por-garimpo-ilegal-na-amazonia.ghtml
+">g1.globo.com
 </a></p>
     </main>
 </body>

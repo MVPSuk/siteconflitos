@@ -13,14 +13,13 @@
     <?php require_once('../include/default.require.php');?>
     <main id="main">
         <h1>Venezuela</h1>
+      
        <img src="../imgs/img1venezuela.png" alt="img1venezuela">
        <p>A Venezuela é um país situado na América do Sul fazendo divisas com o Brasil, Colômbia e Guiana. Constituído por uma parte no continente e um grande número de ilhas no Mar do Caribe, cuja sua capital e maior aglomeração urbana é a cidade de Caracas. Possui uma área de 916445 km², sendo o 32º maior país do mundo em território.  O país é amplamente conhecido por suas VASTAS RESERVAS DE PETRÓLEO. As cores da bandeira venezuelana são o amarelo, azul e vermelho, nessa ordem: o amarelo representa a riqueza da terra, o azul o mar e o céu do país, e o vermelho o sangue derramado pelos heróis da independência.
 </p>
       <p>O território venezuelano foi colonizado pelo Império Espanhol em 1522, apesar da resistência dos povos nativos. A independência da Venezuela foi declarada pelo congresso nacional, no dia 5 de julho de 1811,  tornou-se uma das primeiras colônias hispano-americanas a declarar a independência, mas que apenas foi consolidada em 1830, após muitas batalhas entre os exércitos patriotas e os realistas, e com grande participação do comandante patriota Simón Bolívar e Francisco de Miranda, aquele país tornou-se completamente independente.</p>
       
       <h2>Movimento de independência </h2>
-      
-     
       
       <p>Os movimentos independentistas mais importantes, antes do século XIX, foram as participações locais das revoltas dos Comuneros da Nova Granada e o de Manuel Gual e José María Espanã, no qual participou toda a sociedade colonial, em 1797. Tampouco teve êxito o desembarque de Francisco de Miranda, com uma pequena expedição de patriotas, organizada nos Estados Unidos e financiada pela Inglaterra, em 1806. O militar, Francisco de Miranda, foi o precursor da independência na América espanhola, sendo profundamente influenciado pelos ideais liberais, serviu ao exército espanhol e lutou na Guerra de Independência dos EUA. Em 1806, partindo dos Estados Unidos e contando com o apoio britânico, desembarcou em Coro, porto da Venezuela, pronto para pôr seus planos em ação. Nesse episódio, vale lembrar, a bandeira da atual Venezuela era o estandarte dos revolucionários. Contudo, nesse momento, a elite criolla da Venezuela ainda não desejava a independência nem via com bons olhos o apoio estrangeiro à causa de Miranda, pois temia uma simples mudança de metrópole (da Espanha para a Inglaterra). Assim o líder revolucionário não conseguiu apoio e teve que fugir dez dias depois de seu desembarque.
 </p>
@@ -29,17 +28,13 @@
 </p>
       
       <h2>Venezuela e produção no século XX</h2>
-      
-      
+  
       <p>Na virada para o século XX, a população venezuelana permanece predominantemente agrícola: em 1891 havia apenas quatro povoamentos com mais de 20 mil habitantes e 90% da população estava espalhada pelo país em condições rurais (FIGUEROA, 1975, p.316). O trabalho no campo ainda continuava menos desenvolvido apresentando uma produtividade limitada. Mantendo-se os caudilhos locais, a economia dos grandes latifúndios é orientada para a exportação, os mercados reduzidos a este âmbito devido a uma população pobre demais para consumir, e as relações de produção continuam com caráter de servidão, sem nenhum desenvolvimento significativo das forças produtivas.</p>
       <p>Com a prosperidade econômica mundial, a acumulação de capital nos centros europeus e nos Estados Unidos começa a colocar à disposição das jovens ex-colônias um volume significativo de capital para investimento e parte deste começa a pôr sua vista sobre a Venezuela, que não pertencia ao grupo de territórios coloniais, mas de economias dependentes. Deste modo, no século XX se inaugura para Venezuela um período que se estrutura o domínio do capital transnacional sobre a economia. O chefe de Estado na virada do século, Cipriano Castro, exerceu uma ditadura após a derrubada de Ignacio Andrade e encerrou com isto o período de predomínio do liberalismo amarelo. Uma coalizão de caudillos e empresas transnacionais desencadeia uma guerra civil de três anos, sem conseguir derrotá-lo. Posteriormente eleito presidente constitucional, Castro outorgava concessões petrolíferas exclusivamente a venezuelanos e se opunha ao estilo de concessões que praticamente entregava o petróleo nacional a monopólios internacionais como a Royal-Dutch Shell holandesa, a British Controlled Oilfields inglesa e a estadunidense Standard Oil. Estas gigantes internacionais tinham na Venezuela seu principal alvo da região e um campo de disputa pela nova riqueza, o ouro negro, participando ativamente de uma campanha pela destituição de Castro: alentavam “revoluções” locais e pressionavam o país economicamente junto a instituições financeiras internacionais, que cobravam uma dívida externa muito superior à real.
 </p>
       <p>A descoberta do petróleo e a exploração comercial deste recurso teve início em 1920 no país e foi extremamente importante para a economia venezuelana, pois até então,  as exportações se limitavam a commodities agrícolas, como café e arroz, não sendo auto suficiente em grande parte. Entre acusações de exploração dos recursos por parte de companhias dos Estados Unidos, enquanto não se sentiam grandes efeitos para a população venezuelana em melhorias da qualidade de vida, no ano de 1973, a Venezuela votou por privatizar o seu setor petrolífero. Isso culminou na criação da Petróleos de Venezuela (PDVSA)
 </p>
       <img src="../imgs/img2venezuela.jpg" alt="img2venezuela">
-      <p><a href="https://www.monografias.com/ 
-">https://www.monografias.com/ 
-</a></p>
       
       <h2>Crise na Venezuela</h2>
       
@@ -50,17 +45,14 @@
       <p>Em uma entrevista dada ao portal UOL Notícias em 2019, o portal conversou com Maurício Santoro, professor de relações internacionais da UERJ (Universidade do Estado do Rio de Janeiro) e Guilherme Casarões, professor do Centro de Relações Internacionais da FGV (Fundação Getúlio Vargas) para entender qual é o papel dos EUA nesta etapa da crise no país. "É importante ver até onde os americanos vão com a pressão sobre Maduro e até onde os governos da América Latina estão dispostos a aceitar essa pressão. Para muitos países, o Brasil é um exemplo perfeito disso, já que, entre nossos militares, há uma rejeição muito grande ao Maduro. Mas também existe um medo enorme de uma intervenção dos EUA na Venezuela", explica Santoro. "Nenhum grande país latino-americano apoiaria os EUA caso eles fossem tentar uma ação militar desse tipo. Os americanos dizem que o único meio de derrubar Maduro é através da força militar. Mas até mesmo os mais entusiasmados com o apoio americano, como a Colômbia, estão dizendo não. E Bogotá tem uma história de cooperação com Washington, mas uma coisa é convidar para ajudar a combater guerrilha e traficantes dentro do seu próprio território, outra coisa é usar o território para invadir um país sul-americano", diz o professor da Uerj. </p>
       
       <h2>Consequência da crise na Venezuela</h2>
-      
-      <ul>
-    <li>Em 2021, a inflação chegou a quase 700%;
-</li>
-    <li>A pobreza extrema do país saltou de 23,6%, em 2014, para 61,2%, em 2017. Hoje a Venezuela tem 96,2% de sua população vivendo na pobreza e 79,3% estão em situação extrema. </li>
-    <li>Entre 2013 e 2017, o PIB do país caiu 37%. Hoje o PIB está na casa dos 106 USD.</li>
-    <li>Em 2022 o salário mínimo da Venezuela corresponde atualmente a R$26.
-</li>
-    <li>Em decorrência da crise política e econômica no país, quase três milhões de venezuelanos DEIXARAM O PAÍS.</li>
-</ul>
-      
+    
+      <ul class="rein">
+        <li>Em 2021, a inflação chegou a quase 700%;</li>
+        <li>A pobreza extrema do país saltou de 23,6%, em 2014, para 61,2%, em 2017. Hoje a Venezuela tem 96,2% de sua população vivendo na pobreza e 79,3% estão em situação extrema.</li>
+        <li>Entre 2013 e 2017, o PIB do país caiu 37%. Hoje o PIB está na casa dos 106 USD.</li>
+        <li>Em 2022 o salário mínimo da Venezuela corresponde atualmente a R$26.</li>
+        <li>Em decorrência da crise política e econômica no país, quase três milhões de venezuelanos DEIXARAM O PAÍS.</li>
+      </ul>
       
       <h2>Considerações finais</h2>
       
@@ -69,28 +61,27 @@
 
 </p>
       <img src="../imgs/img3venzuela.png" alt="img3venezuela">
-      <p>news.nationalgeographic.com 
-</p>
-     <h3>Referências:</h3>
       
-  <p> <a     
+     <h2>Referências:</h2>
+      
+  <p class ="ref"> <a     
 href="https://1library.org/article/venezuela-produ%C3%A7%C3%A3o-no-s%C3%A9culo-xx-forma%C3%A7%C3%A3o-venezuela-hist%C3%B3ria.y4wvn7rq 
-"> https://1library.org/article/venezuela-produ%C3%A7%C3%A3o-no-s%C3%A9culo-xx-forma%C3%A7%C3%A3o-venezuela-hist%C3%B3ria.y4wvn7rq 
+"> 1library.com 
 </a> </p>
-<p><a href="https://www.politize.com.br/politica-venezuela/  
-">https://www.politize.com.br/politica-venezuela/ 
+<p class ="ref"><a href="https://www.politize.com.br/politica-venezuela/  
+">politize.com
 </a></p>
-      <p><a href="https://brasilescola.uol.com.br/historia-da-america/crise-na-venezuela.htm  
-">https://brasilescola.uol.com.br/historia-da-america/crise-na-venezuela.htm 
+      <p class ="ref" ><a href="https://brasilescola.uol.com.br/historia-da-america/crise-na-venezuela.htm  
+">brasilescola.uol.com
 </a></p>
-      <p><a href="https://www.linkedin.com/pulse/sobre-descida-do-pre%C3%A7o-petr%C3%B3leo-entre-2014-e-2015-causas-marcelo-melo/?originalSubdomain=pt 
-">https://www.linkedin.com/pulse/sobre-descida-do-pre%C3%A7o-petr%C3%B3leo-entre-2014-e-2015-causas-marcelo-melo/?originalSubdomain=pt 
+      <p class ="ref" ><a href="https://www.linkedin.com/pulse/sobre-descida-do-pre%C3%A7o-petr%C3%B3leo-entre-2014-e-2015-causas-marcelo-melo/?originalSubdomain=pt 
+">linkedin.com
 </a></p>
-      <p><a href="https://www.cnnbrasil.com.br/business/venezuela-96-2-da-populacao-vivem-na-pobreza-e-79-3-estao-em-situacao-extrema/  
-">https://www.cnnbrasil.com.br/business/venezuela-96-2-da-populacao-vivem-na-pobreza-e-79-3-estao-em-situacao-extrema/ 
+      <p class ="ref"><a href="https://www.cnnbrasil.com.br/business/venezuela-96-2-da-populacao-vivem-na-pobreza-e-79-3-estao-em-situacao-extrema/  
+">cnnbrasil.com
 </a></p>
-      <p><a href="https://economia.uol.com.br/noticias/afp/2020/04/27/salario-minimo-na-venezuela-chega-a-us-46-mesmo-com-alta-de-777.htm  
-">https://economia.uol.com.br/noticias/afp/2020/04/27/salario-minimo-na-venezuela-chega-a-us-46-mesmo-com-alta-de-777.htm 
+      <p class ="ref"><a href="https://economia.uol.com.br/noticias/afp/2020/04/27/salario-minimo-na-venezuela-chega-a-us-46-mesmo-com-alta-de-777.htm  
+">economia.uol.com
 </a></p>
     </main>
 </body>

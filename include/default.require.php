@@ -1,18 +1,22 @@
 <?php 
 if($x){
   $backdir="";
+  $goup="";
 }else{
   $backdir="../";
+  $goup="<a id=\"goup\" href=\"#\"><i class=\"fa-sharp fa-solid fa-caret-up\"></i></a>";
 }
 
 echo "<body>
+    $goup
     <div id=\"backscreen\" onclick=\"fecharNav()\"></div>
     <header id=\"header\">
-        <a href=\"#\" id=\"btn-abrir\" onclick=\"abrirNav()\"><i class=\"fa-solid fa-bars\"></i></a>
+        <i id=\"btn-abrir\" class=\"fa-solid fa-bars\" onclick=\"abrirNav()\"></i>
     </header>
+    <div id=\"red-circle\" onclick=\"fecharNav()\"><i id=\"btn-fechar\" class=\"fa-solid fa-xmark\"></i></div>
     <nav id=\"nav\">
-	    <a href=\"#\" id=\"btn-fechar\" onclick=\"fecharNav()\"><div id=\"redcircle\"><i class=\"fa-solid fa-xmark\"></i></div></a>
         <ul>
+            <div id=\"red-circlePC\" onclick=\"fecharNav()\"><i id=\"btn-fechar\" class=\"fa-solid fa-xmark\"></i></div>
             <li>
                 <a href=\"../index.php\">Página Inicial</a>
             </li>
@@ -110,5 +114,5 @@ echo "<body>
     <div id=\"nav2\">
         <p id=\"title\"></p>
         <div id=\"nav2-1\"></div>
-    </div>;"
+    </div>"
 ?>

@@ -28,7 +28,7 @@ Desse modo, nações industrializadas e desenvolvidas como França e Inglaterra 
       <p>Rapidamente, as pessoas tornaram-se dependentes e o governo chinês fez um apelo aos britânicos que não o comercializassem mais. Entretanto, não obtiveram resultados com tal apelo.</p>
       <p>Como forma de reação, os chineses queimaram em 1839 uma faixa de  20 mil caixas de ópio, no porto de Cantão. Em seguida, resolveram fechá-lo, os britânicos tomaram esta atitude como uma agressão e declararam guerra ao país.</p>
  <img src="../imgs/1taiwan.jpg" alt="1taiwan">
-<p>Fonte:<a href="http://estudopravaler.blogspot.com/2014/05/imperialismo-e-industrializacao.html">http://estudopravaler.blogspot.com/2014/05/imperialismo-e-industrializacao.html</a> </p>    
+<p class="fonte">Fonte: <a href="http://estudopravaler.blogspot.com/2014/05/imperialismo-e-industrializacao.html">http://estudopravaler.blogspot.com</a> </p>    
       
 <h3>Guerra do Ópio</h3>
       <p>O ocorrido ficou conhecido como Guerra do Ópio e teve efeitos desastrosos para os chineses, que em virtude disso foram obrigados a assinar, em 1842, o Tratado de Nanquim.</p>
@@ -44,7 +44,7 @@ Desse modo, nações industrializadas e desenvolvidas como França e Inglaterra 
 
 <h3>China como república</h3>
  <img src="../imgs/2taiwan.jpg" alt="2taiwan">
-<p>Fonte:<a href="https://www.wallpaperup.com/1166198/bandera_republica_popular_china_asia.html">https://www.wallpaperup.com/1166198/bandera_republica_popular_china_asia.html</a> </p>
+<p class="fonte">Fonte: <a href="https://www.wallpaperup.com/1166198/bandera_republica_popular_china_asia.html">https://www.wallpaperup.com</a> </p>
        <p>Com o rompimento do sistema que vigorava até então, no final do século XIX, a economia do país ficou abalada, e a Dinastia Manchu  diante da situação que se encontrava se viu obrigada a criar um sistema de impostos que fosse eficaz. Devido a esse fator, a nobreza perdeu seus privilégios, tendo que direcionar boa parte dos recursos que extrai dos súditos para o pagamento dos impostos.</p>
       <p>A outra medida a ser tomada pela dinastia Manchu seria o incentivo ao comércio e à indústria com o objetivo de gerar recursos financeiros através do pagamento dos tributos. Surgiu então uma nova classe social, a burguesia industrial, que iria pesar do outro lado da balança e fazer com que os recursos financeiros do país não ficassem mais tão  concentrados como era na nobreza.</p>
       <p>Para que tais medidas fossem executadas não foi um processo fácil, uma vez que não era do interesse da nobreza, e que era esta quem sustentava o sistema imperial. Outra dificuldade a ser superada era o controle do comércio, pois os portos e alfândegas, bem como as cidades mais desenvolvidas no comércio e na indústria, estavam sob o controle estrangeiro o que impossibilitava muitas coisas. As tentativas de fazer uma reforma financeira pareciam mais distantes.
@@ -52,7 +52,7 @@ Desse modo, nações industrializadas e desenvolvidas como França e Inglaterra 
       <p>Diante desse contexto, o poder dos imperadores perdeu a força, a cobrança dos impostos e tributos saiu do controle dos imperadores, a nobreza se separou do poder imperial e aumentou a exploração das massas camponesas, instaurando mais desigualdades, os camponeses, por sua vez, organizaram várias revoltas e as forças políticas se repartiram gradualmente. Após a instalação do caos social no país, a República foi proclamada a república, representando a queda do poder imperial.
 </p>
  <img src="../imgs/3taiwan.jpg" alt="3taiwan">
-<p>Fonte:<a href="https://www.atlasbig.com/pt-pt/republica-popular-da-china">https://www.atlasbig.com/pt-pt/republica-popular-da-china</a> </p>
+<p class="fonte">Fonte: <a href="https://www.atlasbig.com/pt-pt/republica-popular-da-china">https://www.atlasbig.com</a> </p>
       <p>Por 20 anos, as classes dominantes não conseguiram se aliar e retomar a unidade como nação, ficando a sociedade então fragmentada, situação esta que perdurou até a Revolução Comunista, em 1949.</p>
       <p>O movimento republicano conduzido pelo Partido Nacionalista da China tentou a todo custo unificar a China, e formar um governo nacional. Contudo combateram os comunistas e os proprietários rurais que haviam formado exércitos regionais para manter o controle político e econômico nos seus respectivos domínios territoriais.
 </p>
@@ -81,7 +81,7 @@ Em 1949, os comunistas expulsaram os nacionalistas para a ilha de Taiwan e procl
       <p>Apesar das disputas, Taiwan e China também seguem tendo laços comerciais: a China continental foi o principal destino das exportações de Taiwan em 2012, com mais de US $120 bilhões vendido</p>
 
 <img src="../imgs/4taiwan.jpg" alt="4taiwan">
-<p>Fonte:<a href="https://segredosdomundo.r7.com/conflito-taiwan-china/#:~:text=O%20conflito%20sobre%20Taiwan%20tamb%C3%A9m%20tem%20o%20potencial,dois%20pa%C3%ADses%20poderosos%20%E2%80%93%20China%20e%20Estados%20Unidos.">https://segredosdomundo.r7.com/conflito-taiwan-china/#:~:text=O%20conflito%20sobre%20Taiwan%20tamb%C3%A9m%20tem%20o%20potencial,dois%20pa%C3%ADses%20poderosos%20%E2%80%93%20China%20e%20Estados%20Unidos.</a> </p>
+<p class="fonte">Fonte: <a href="https://segredosdomundo.r7.com/conflito-taiwan-china/#:~:text=O%20conflito%20sobre%20Taiwan%20tamb%C3%A9m%20tem%20o%20potencial,dois%20pa%C3%ADses%20poderosos%20%E2%80%93%20China%20e%20Estados%20Unidos.">https://segredosdomundo.r7.com</a> </p>
 <h2>Afinal de contas, Taiwan é um país?</h2>
       <p>Taiwan tem, a partir do momento da separação pós-guerra civil, uma situação política controversa. A ilha não é um país reconhecido nos organismos internacionais, mas também não está sob o governo de Pequim na China continental sendo de certa maneira independente.</p>
       <p>Taiwan se autodenomina "República da China", enquanto a China continental é a "República Popular da China".</p>
@@ -97,7 +97,7 @@ Em 1949, os comunistas expulsaram os nacionalistas para a ilha de Taiwan e procl
       <p>Taiwan e os EUA, por exemplo, assinaram em 1954 um acordo de defesa mútua. O acordo seria encerrado em 1979, quando os EUA passaram a reconhecer o governo comunista na China continental.</p>
       <p>A partir daí, os americanos oferecem somente apoio técnico a Taiwan, mas não têm compromisso de defesa. Os EUA evitam mencionar atualmente que defenderão Taiwan no caso de um ataque chinês.</p>
       
-<h2>Iminência de guerras:?</h2>
+<h2>Iminência de guerras?</h2>
       <p>A China, por sua vez, não considera Taiwan um território separado da porção continental e deixa claro o seu desejo de  submeter a ilha ao governo de Pequim novamente, o que não acontece hoje.
 </p>
       <p>A divisão a respeito do tema se torna ainda mais relevante à medida que crescem as tensões entre os EUA contra a China. O novo cenário global faz com que Taiwan seja, na prática, um dos elementos em debate na guerra comercial e política entre as duas potências.</p>
@@ -106,14 +106,14 @@ Em 1949, os comunistas expulsaram os nacionalistas para a ilha de Taiwan e procl
 O que tem acontecido ultimamente, é uma série de exercícios militares dos dois lados foram feitos na região nos últimos anos, mas um embate direto não esteve perto de ocorrer. Analistas são unânimes, no entanto: qualquer confronto na China seria má notícia para a estabilidade no mundo inteiro por motivos geopolíticos.
 </p>
 <img src="../imgs/5taiwan.jpg" alt="5taiwan">
-<p>Fonte:<a href="https://globalnation.inquirer.net/197059/after-massed-plane-incursion-near-taiwan-china-says-must-respond-to-collusion">https://globalnation.inquirer.net/197059/after-massed-plane-incursion-near-taiwan-china-says-must-respond-to-collusion</a> </p>     
+<p class="fonte">Fonte: <a href="https://globalnation.inquirer.net/197059/after-massed-plane-incursion-near-taiwan-china-says-must-respond-to-collusion">https://globalnation.inquirer.net</a> </p>     
 
-<h3>Referências:</h3>
+<h2>Referências:</h2>
       
-<p><a href="https://www.todamateria.com.br/imperialismo-na-asia/"> https://www.todamateria.com.br/imperialismo-na-asia/</a></p>
-<p><a href="https://www.infoescola.com/historia/republica-chinesa/">https://www.infoescola.com/historia/republica-chinesa/</a></p>
-<p><a href="https://www.linkedin.com/pulse/china-x-taiwan-guerra-que-gera-riscos-empresariais-em-todo-">https://www.linkedin.com/pulse/china-x-taiwan-guerra-que-gera-riscos-empresariais-em-todo-</a></p>
-<p><a href="https://exame.com/mundo/conflito-taiwan-china-biden/">https://exame.com/mundo/conflito-taiwan-china-biden/</a></p>
+<p class ="ref"><a href="https://www.todamateria.com.br/imperialismo-na-asia/"> todamateria.com.br</a></p>
+<p class ="ref"><a href="https://www.infoescola.com/historia/republica-chinesa/">infoescola.com</a></p>
+<p class ="ref"><a href="https://www.linkedin.com/pulse/china-x-taiwan-guerra-que-gera-riscos-empresariais-em-todo-">www.linkedin.com/</a></p>
+<p class ="ref"><a href="https://exame.com/mundo/conflito-taiwan-china-biden/">exame.com</a></p>
       
 
        

@@ -13,8 +13,11 @@
     <?php require_once('../include/default.require.php');?>
     <main id="main">
         <h1>Coreia do Norte</h1>
+       <img src="../imgs/img1coreiadonorte.jpg" alt="img1coreiadonorte">
         <p>A Coreia é um território localizado na Península da Coreia, esta península fica na região nordeste da Ásia e possui fronteiras com a China a noroeste, com a Rússia a nordeste e é separada do Japão a leste pelo Estreito da Coreia e pelo Mar da China Oriental. Atualmente, a Coreia é dividida entre dois países, a Coreia do Norte, oficialmente República Popular Democrática da Coreia (RPDC), e Coreia do Sul, oficialmente República da Coreia (ROCK).
 </p>
+      <img src="../imgs/img2coreiadonorte.png" alt="img2coreiadonorte">
+      <p class="fonte"><a href="https://pt.wikipedia.org/wiki/Coreia_do_Norte#/media/Ficheiro:Democratic_People's_Republic_of_Korea_(orthographic_projection).svg">https://pt.wikipedia.org</a></p>
       
 <h2>Dinâmica de Formação da Coreia no Século XX
 </h2>
@@ -97,14 +100,77 @@ Em 2003, o país saiu do TNP.  A partir disso, as organizações internacionais 
 </h3>
 <p><b>Na Coreia do Norte, Kim Jong-un inicia 2018 com ameaças aos EUA
 </b>'Botão nuclear está na minha mesa', disse ele. Japoneses começam o ano indo a templos; em Hong Kong festa da virada foi grandiosa.<a href="https://g1.globo.com/jornal-nacional/noticia/2018/01/na-coreia-do-norte-kim-jong-un-inicia-2018-com-ameacas-aos-eua.html">(Jornal Nacional - 2018)</a> </p>
+
 <p><b>Coreia do Norte faz novo lançamento de míssil, diz Coreia do Sul</b>Japão afirma que ação é uma ameaça à comunidade internacional.
  <a href="https://g1.globo.com/mundo/noticia/2019/11/28/coreia-do-norte-faz-novo-lancamento-de-missil.ghtml">(Mundo - 2019)
 </a> </p> 
+
 <p><b>Coreia do Norte lança mísseis balísticos</b>Exército sul-coreano condenou disparos como 'extremamente inapropriados, dada a situação difícil que o mundo está enfrentando devido à Covid-19' 
  <a href="https://veja.abril.com.br/mundo/coreia-do-norte-lanca-misseis-balisticos/">(Veja - 2020) </a> </p>
-<p></p>
-<p></p>
-<p></p>
+
+<p><b>Por que a Coreia do Norte cortou todas as comunicações com o Sul</b> Panfletos de propaganda lançados em balões por asilados na Coreia do Sul formaram o pretexto para Pyongyang pressionar Seul ainda mais
+<a href="https://veja.abril.com.br/mundo/por-que-a-coreia-do-norte-cortou-todas-as-comunicacoes-com-o-sul/">(Veja - 2020) </a> </p>
+
+<p><b>Coreia do Norte ameaça EUA com programa nuclear após fim de negociações
+</b>'Nunca mais daremos ao mandatário americano outro pacote para ser usado para somar conquistas sem receber nada em troca', disse ... 
+ <a href="https://veja.abril.com.br/mundo/coreia-do-norte-ameaca-eua-com-programa-nuclear-apos-fim-de-negociacoes/">(Veja - 2020)
+</a> </p>
+      
+<p><b>Coreia do Norte explode escritório de relações com o sul: veja vídeo
+</b>Aumento da tensão na fronteira entre os dois países é decorrente da interrupção das conversas promovida pelo regime ditatorial de K...  <a href="https://veja.abril.com.br/mundo/coreia-do-norte-explode-escritorio-de-relacoes-com-o-sul/">(Veja - 2020)</a> </p>
+
+      <p><b>Coreia do Norte ameaça reforçar segurança em zona desmilitarizada
+</b>Exercícios militares ordenados por Pyongyang estão programados em diversas regiões do país; Sul condena declarações e diz que Kim Jong...  <a href="https://veja.abril.com.br/mundo/coreia-do-norte-ameaca-reforcar-seguranca-em-zona-desmilitarizada/">(Veja - 2020)
+</a> </p>
+      
+<p><b>Coreia do Norte dispara dois mísseis no Mar do Japão
+</b>Provocação aumenta pressão sobre governo de Joe Biden; Tóquio definiu exercício militar como 'uma ameaça para a paz e a segurança da região' 
+ <a href="https://veja.abril.com.br/mundo/coreia-do-norte-dispara-dois-misseis-no-mar-do-japao/">(Veja- 2021)</a> </p>
+
+<p><b>Coreias do Norte e do Sul testam mísseis e elevam tensão na região
+</b>Governo sul-coreano lançou míssil balístico debaixo d'água cerca de três horas depois de teste norte-coreano com projéteis de curto a... 
+<a href="https://veja.abril.com.br/mundo/coreias-do-norte-e-do-sul-testam-misseis-e-elevam-tensao-na-regiao/">(Veja- 2021)</a> </p>
+
+<p><b>Coreia do Norte e do Sul concordam sobre o fim formal da guerra
+</b>A Guerra da Coreia teve fim em 1953 com um armistício e não um tratado de paz, o que significa que, em teoria, os dois países ainda estã... <a href="https://veja.abril.com.br/mundo/coreia-do-norte-e-do-sul-concordam-sobre-o-fim-formal-da-guerra/">(Veja- 2021)</a> </p>
+
+<p><b>Biden viaja à Coreia do Sul diante de ameaça nuclear da Coreia do Norte</b>Depois de Seul, onde tratará sobretudo de questões de segurança, presidente americano segue para o Japão 
+ <a href="https://veja.abril.com.br/mundo/biden-viaja-a-coreia-do-sul-diante-de-ameaca-nuclear-da-coreia-do-norte/">(Veja- 2022)</a> </p>
+
+<p><b>Coreia do Sul e EUA lançam oito mísseis em resposta à Coreia do Norte
+</b>Presidentes Yoon Suk-yeol e Joe Biden prometeram adotar linha dura contra Pyongyang após 'séria provocação que prejudica a paz e a... 
+ <a href="https://veja.abril.com.br/mundo/coreia-do-sul-e-eua-lancam-oito-misseis-em-resposta-a-coreia-do-norte/">(Veja- 2022)</a> </p>
+
+<p><b>Kim Jong-un ameaça usar armas nucleares contra EUA e Coreia do Sul
+</b>Em meio à crise econômica, o líder norte-coreano intensifica a retórica bélica para angariar apoio popular  
+ <a href="https://veja.abril.com.br/mundo/kim-jong-un-ameaca-usar-armas-nucleares-contra-eua-e-coreia-do-sul/">(Veja- 2022)</a> </p>
+
+<p><b>Coreia do Norte: testes de mísseis simulam ataque com armas nucleares
+</b>Pyongyang disse estar 'completamente pronta para atingir e destruir alvos a qualquer momento e em qualquer local'  
+ <a href="https://veja.abril.com.br/mundo/coreia-do-norte-testes-de-misseis-simulam-ataque-com-armas-nucleares/">(Veja- 2022)</a> </p>
+
+<h2>Considerações Finais</h2>
+<p>Com o fim da Segunda Guerra Mundial, a Coreia se viu sob o controle das duas principais potências no contexto político mundial da época: Estados Unidos e União Soviética, o que fez com que o país continuasse sem poder para tomar as próprias decisões. A ocupação dessas potências fez com que o país se dividisse em dois e fosse marcado profundamente por suas ideologias. As marcas desse domínio foram responsáveis pelo início do primeiro conflito armado da Guerra Fria: a Guerra das Coreias. 
+</p>
+<p>Neste contexto, nota-se que os interesses das superpotências foram os responsáveis por fomentar a rivalidade ideológica e política entre esses países, que gerou a Guerra e que trouxe duras consequências para ambas nações, como o grande número de mortos e a alta tensão entre eles, que permanece até os dias de hoje. Dessa forma, interesses totalmente alheios aos da Coreia fez com que esse país fosse transformado fortemente. 
+</p>
+
+<p>Clique <a href="historiacor.php">aqui </a>para saber mais sobre a <b>História da Coreia (antes do século XIX)</b></p>
+<p>Clique<a href="juche.php"> aqui </a>para saber mais sobre a <b>Ideologia Juche</b></p>
+
+      <h2>Referências:</h2>
+      
+<p class ="ref"><a href="https://overseas.mofa.go.kr/pt-pt/brd/m_9403/view.do?seq=685792&srchFr=&amp;srchTo=&amp;srchWord=&amp;srchTp=&amp;multi_itm_seq=0&amp;itm_seq_1=0&amp;itm_seq_2=0&amp;company_cd=&amp;company_nm=#:~:text=A%20Pen%C3%ADnsula%20Coreana%20e%20a,e%20perto%20de%20grandes%20rios."> História da Coreia </a></p>
+<p class ="ref"><a href="https://omegawebhosting.net/wiki/Juche"> Juche</a></p>
+<p class ="ref"><a href="https://omegawebhosting.net/wiki/Costituzione_nordcoreana ">Constituição-</a></p>
+<p class ="ref"><a href="https://pt.wikipedia.org/wiki/Coreia ">Guerras e história</a></p>
+<p class ="ref"><a href="https://www.politize.com.br/guerra-da-coreia/ ">Guerra da Coreia 
+-</a></p>
+      
+<p class ="ref"><a href="https://pt.wikipedia.org/wiki/Coreia ">Guerras e história</a></p>
+      
+<p class ="ref"><a href="https://www.gazetadopovo.com.br/opiniao/artigos/eua-coreia-do-norte-tensao-armas-nucleares/ ">Tensão entre Coreia do Norte e Estados Unidos
+-</a></p>
     </main>
 </body>
 </html>

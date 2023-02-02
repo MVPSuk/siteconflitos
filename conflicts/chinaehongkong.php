@@ -42,16 +42,16 @@
 <img src="../imgs/5chinahong.jpg" alt="5chinahong">
 <!--  Fonte não apresentada-->
 <!-- <p>Fonte:<a href="">/</a> </p> -->
-  <p>O comércio exterior representa uma grande porção de toda a economia da China, seus principais parceiros comerciais são os Estados Unidos, <strong>Hong Kong </strong>, Coreia do Sul, Japão, Vietnã, Austrália e Alemanha.</p>
+  <p>O comércio exterior representa uma grande porção de toda a economia da China, seus principais parceiros comerciais são os Estados Unidos, <b>Hong Kong </b>, Coreia do Sul, Japão, Vietnã, Austrália e Alemanha.</p>
 
 <h2>Reportagens</h2>
-  <p><a href="https://brasil.elpais.com/brasil/2019/08/17/internacional/1566034762_371967.html"> https://brasil.elpais.com/brasil/2019/08/17/internacional/1566034762_371967.html</  a></p>
-  <p><a href="https://g1.globo.com/mundo/noticia/2019/09/14/manifestantes-entram-em-conflito-durante-protestos-em-hong-kong.ghtml"> https://g1.globo.com/mundo/noticia/2019/09/14/manifestantes-entram-em-conflito-durante-protestos-em-hong-kong.ghtml</  a></p>
-  <p><a href="https://www.economist.com/leaders/2020/05/28/china-has-launched-rule-by-fear-in-hong-kong"> https://www.economist.com/leaders/2020/05/28/china-has-launched-rule-by-fear-in-hong-kong</  a></p>
+  <p><a href="https://brasil.elpais.com/brasil/2019/08/17/internacional/1566034762_371967.html"> brasil.elpais.com</  a></p>
+  <p><a href="https://g1.globo.com/mundo/noticia/2019/09/14/manifestantes-entram-em-conflito-durante-protestos-em-hong-kong.ghtml"> g1.globo.com</  a></p>
+  <p><a href="https://www.economist.com/leaders/2020/05/28/china-has-launched-rule-by-fear-in-hong-kong"> www.economist.com</  a></p>
 
 <h2>Referências:</h2>
-<p><a href="https://www.sucessosa.com.br/noticia/tensao-entre-china-e-hong-kong-ja-perdura-anos-entenda"> Sucessos a</a></p>
-<p><a href="https://www-bbc-com.cdn.ampproject.org/v/s/www.bbc.com/portuguese/internacional-50457821.amp?amp_gsa=1&amp_js_v=a9&usqp=mq331AQKKAFQArABIIACAw%3D%3D#amp_tf=From%20%251%24s&aoh=16705074377569&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-50457821"> Protestos em Hong Kong: o que está acontecendo no território, explicado em 3 minutos</a></p>
+<p class ="ref"><a href="https://www.sucessosa.com.br/noticia/tensao-entre-china-e-hong-kong-ja-perdura-anos-entenda"> Sucesso</a></p>
+<p class ="ref"><a href="https://www-bbc-com.cdn.ampproject.org/v/s/www.bbc.com/portuguese/internacional-50457821.amp?amp_gsa=1&amp_js_v=a9&usqp=mq331AQKKAFQArABIIACAw%3D%3D#amp_tf=From%20%251%24s&aoh=16705074377569&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-50457821"> Protestos em Hong Kong: o que está acontecendo no território, explicado em 3 minutos</a></p>
 
       
 

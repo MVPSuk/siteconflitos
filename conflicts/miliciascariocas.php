@@ -18,18 +18,20 @@
       <p>A milícia é um poder paralelo, que não integra as forças armadas ou de polícia de um país, composta por militares, para militares ou civis armados. De acordo com a Anistia Internacional, as milícias utilizam da força para extorquir a população em determinados territórios urbanos ao redor do mundo, para que através dos recursos obtidos, consigam se manter tanto economicamente, quanto politicamente. 
 </p>
       <p>As milícias nem sempre foram apontadas como organizações criminosas, principalmente em sua atuação nas zonas de guerra em países e territórios como o Oriente Médio. Lá, o conceito de milícia era voltado para uma composição extra-oficial de forças de combate, geralmente em situações de guerra civil e resistência contra inimigos variados.</p>
-      <p>Entretanto, a ideia de milícia ganhou uma nova abordagem a partir do momento em que esse tipo de organização tomou os centros urbanos, ocupando espaços nos quais A PRESENÇA DO ESTADO É QUASE NULA, como as favelas do Rio de Janeiro.</p>
+      <p>Entretanto, a ideia de milícia ganhou uma nova abordagem a partir do momento em que esse tipo de organização tomou os centros urbanos, ocupando espaços nos quais <b>A PRESENÇA DO ESTADO É QUASE NULA</b>b>, como as favelas do Rio de Janeiro.</p>
       <p>Nesse novo tipo de organização, as milícias são compostas por agentes públicos de segurança, particularmente policiais militares (ou ex-policiais) e também por civis armados.</p>
      
       
        <h2>Como as milícias atuam?  </h2>
       
-      <p>Dentro do contexto político atual, principalmente nas regiões cariocas, o termo milícia passou a ser utilizado para denominar grupos criminosos COMPOSTOS POR AGENTES DE SEGURANÇA, CIVIS ARMADOS, EX-AGENTES DE SEGURANÇA. Essas corporações (ilegais, criminosas) têm como intuito exercer o CONTROLE EXTORSIVO E OPRESSOR sobre as comunidades periféricas das grandes cidades brasileiras, tal como ocorre na cidade do Rio de Janeiro.</p>
+      <p>Dentro do contexto político atual, principalmente nas regiões cariocas, o termo milícia passou a ser utilizado para denominar grupos criminosos <b>COMPOSTOS POR AGENTES DE SEGURANÇA, CIVIS ARMADOS, EX-AGENTES DE SEGURANÇA</b>. Essas corporações (ilegais, criminosas) têm como intuito exercer o CONTROLE EXTORSIVO E OPRESSOR sobre as comunidades periféricas das grandes cidades brasileiras, tal como ocorre na cidade do Rio de Janeiro.</p>
         <img src="../imgs/img1miliciascarioca.png" alt="img1miliciascariocas">
       <p>A função e o objetivo das milícias é, em um contexto macro, obter vantagens políticas, econômicas e sociais. Na prática, é esse tipo de objetivo que separa as milícias de outros grupos criminosos, como os grupos de extermínio.</p>
-      <p>Em muitas comunidades, as MILÍCIAS OFERECEM DIVERSOS “TIPOS DE SERVIÇOS” PARA AQUELAS COMUNIDADES DESASSISTIDAS PELO SERVIÇO PÚBLICO, onde tais atividades vão desde segurança, venda de produtos essenciais até tráfico de drogas e armas. Tais atividades são visadas com dois intuitos:</p>
-      <p>1. O primeiro, que seria a prestação de serviço à população, tem como objetivo principal agradar a população e evitar a sua irritação sobre as práticas ilegais das milícias.</p>
-      <p>2.O segundo, que seria as práticas ilegais, tem como finalidade o enriquecimento da organização.</p>
+      <p>Em muitas comunidades, as<b> MILÍCIAS OFERECEM DIVERSOS “TIPOS DE SERVIÇOS” PARA AQUELAS COMUNIDADES DESASSISTIDAS PELO SERVIÇO PÚBLICO</b>, onde tais atividades vão desde segurança, venda de produtos essenciais até tráfico de drogas e armas. Tais atividades são visadas com dois intuitos:</p>
+      <ol class="ordem">
+        <li>O primeiro, que seria a prestação de serviço à população, tem como objetivo principal agradar a população e evitar a sua irritação sobre as práticas ilegais das milícias.</li>
+        <li>O segundo, que seria as práticas ilegais, tem como finalidade o enriquecimento da organização.</li>
+      </ol>
       
       
        <h2>Como surgiram as milícias brasileiras?</h2>
