@@ -86,13 +86,13 @@
         <h1>Sobre nós</h1>
 
       <ul class="nos">
-          <li><img src="../imgs/1aluno.jpg" alt="Maria_Beatriz_L_S" width="250">
+          <li><img src="imgs/1aluno.jpg" alt="Maria_Beatriz_L_S" width="250">
             <p class="nome">Maria Beatriz Lopes Santiago</p>
           </li>
-          <li><img src="../imgs/2aluno.jpeg" alt="Marcos_Felipe_Nery_M" width="250">
+          <li><img src="imgs/2aluno.jpeg" alt="Marcos_Felipe_Nery_M" width="250">
             <p class="nome">Marcos Felipe Nery Micheletti</p>
           </li>
-          <li><img src="../imgs/3aluno.jpeg" alt="Ruth_Nunes_de_O" width="250">
+          <li><img src="imgs/3aluno.jpeg" alt="Ruth_Nunes_de_O" width="250">
             <p class="nome">Ruth Nunes de Oliveira</p>
           </li>
     

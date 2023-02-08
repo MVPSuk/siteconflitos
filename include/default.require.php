@@ -105,7 +105,7 @@ echo "<body>
                 </ul>
             </li>
             <li>
-                <a href=\"../sobre.php\">Sobre</a>
+                <a href=\"{$backdir}sobre.php\">Sobre</a>
             </li>
         </ul>
         <p>&copy;2022 - Marcos, Beatriz e Ruth</p>

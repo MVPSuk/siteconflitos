@@ -19,6 +19,7 @@ html,body{
 
 body{
     overflow: hidden;
+    width: 100vw;
 }
 
 header{
@@ -59,6 +60,7 @@ main{
     -webkit-box-shadow: 0px 3px 11px 0px rgba(50, 50, 50, 0.3);
     -moz-box-shadow: 0px 3px 11px 0px rgba(50, 50, 50, 0.3);
     box-shadow: 0px 3px 11px 0px rgba(50, 50, 50, 0.3);
+    z-index: 2;
 }
 
 #welcome h2{
